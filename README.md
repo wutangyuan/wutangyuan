@@ -6,6 +6,5 @@
 
 ![](https://komarev.com/ghpvc/?username=wutangyuan)
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${wutangyuan})
 
 简简单单的程序员，长蹲Github Star学习代码。偶尔提提issue
